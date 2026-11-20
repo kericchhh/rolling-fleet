@@ -1,0 +1,4 @@
+/fleet-app
+/bin/
+*.test
+*.out
